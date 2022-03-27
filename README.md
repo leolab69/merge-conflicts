@@ -1,3 +1,3 @@
-# merge-conflicts
+LOCALE
 
 Faut pas boire l'eau de javel !
